@@ -5,6 +5,7 @@ A beginner-friendly Python course covering everything from variables, loops, and
 #                                                                  Python Programming
 introducing python
 ->Python is a high level ,general purpose, and very popoular programming language.
+
 ->It is being used  in web development,machhine learning apllication , etc.
 ->Python programs are generally smaller than the other programming languages.
 ->Programers have to type relatively less and the identation requirement of the  language , make them readable at the time.
