@@ -7,7 +7,9 @@ introducing python
 ->Python is a high level ,general purpose, and very popoular programming language.
 
 ->It is being used  in web development,machhine learning apllication , etc.
+
 ->Python programs are generally smaller than the other programming languages.
+
 ->Programers have to type relatively less and the identation requirement of the  language , make them readable at the time.
 
 ->Very simple syntax.& Easy to learn.
@@ -28,8 +30,11 @@ introducing python
 
 
 ->MultiParadigm Support
+
 |--->Procedural style Programming like c.
+
 |--->OOP like java.
+
 |--->Function Programming like list.
 
 
@@ -42,12 +47,14 @@ introducing python
                    y = Dhannajay
                    x = "python"
 
+
  This feature is differnt from C++ & Java ,They are statically typed.
  In Python we don't have  to specify the variable name.
  but the disadvantage is in this the type is assigned  in the run time of program, so there are more chances of the rum time error 
 
 ->Automatic Garbage  collection
                        it means when you dynamically allocate memory so you don"t have to realising this memory.
+
 
 ->Popular aplication Bulit in Python
                               Youtube ,Netflix,Doura,Instagram.Dropbox.
