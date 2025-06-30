@@ -15,10 +15,15 @@ introducing python
                      print("Hello World")
 
 ->general purpose language (simple yet powerful language)
+
 |--->console Aplication & scripts
+
 |--->Desktop Aplication
+
 |--->Web Aplication
+
 |--->Game Aplication
+
 |--->Machine Learning ,Deep Learning , AI ,Big data etc.
 
 
